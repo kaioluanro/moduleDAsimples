@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>H:\DSP Curso\Modulo DA simple\Modulo DA simple.kicad_sch</source>
+    <date>30/08/2022 23:57:21</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Modulo DA simple.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">0603F105M160NT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C1689</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="0603F105M160NT"/>
+      <property name="Description" value="16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C1689"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3d3046-33fa-4259-b7f0-fdc7def3156b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">0603F105M160NT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C1689</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="0603F105M160NT"/>
+      <property name="Description" value="16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C1689"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d775e407-74a5-4f0d-9db4-b1f359bc3b41</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Description">50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C5125798</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C5125798"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e30ab5ad-ae19-42b1-883b-bd171656e705</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Description">50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C5125798</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C5125798"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9964cd54-97d9-490e-aa46-81d0b7dd9ecf</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C126469</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0805"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C126469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c299b24d-2048-4bfb-b719-a3fff6e980c4</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56ba1cc6-de41-4bb7-8ce9-1772aea26879</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eeb204a6-2294-4440-b358-be1170a7f0c5</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C126469</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0805"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C126469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5316e8e-c688-4bd7-8945-f49ae9f94d58</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5e2c32d-3f1b-463d-8dab-71b563e64913</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>797354cf-3985-4e96-bc8a-ba299e9547b1</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Walsin Tech Corp</field>
+        <field name="Manufacturer Part Number">0402F104Z160CT</field>
+        <field name="Package">C0402</field>
+        <field name="Specification">MLCC 10V or more</field>
+        <field name="Vendor Part Number">C123453</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Package" value="C0402"/>
+      <property name="Specification" value="MLCC 10V or more"/>
+      <property name="Manufacturer" value="Walsin Tech Corp"/>
+      <property name="Manufacturer Part Number" value="0402F104Z160CT"/>
+      <property name="Description" value="16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C123453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4c7e993-2f40-4a44-b4d9-67c354b9635b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Walsin Tech Corp</field>
+        <field name="Manufacturer Part Number">0402F104Z160CT</field>
+        <field name="Package">C0402</field>
+        <field name="Specification">MLCC 10V or more</field>
+        <field name="Vendor Part Number">C123453</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Package" value="C0402"/>
+      <property name="Specification" value="MLCC 10V or more"/>
+      <property name="Manufacturer" value="Walsin Tech Corp"/>
+      <property name="Manufacturer Part Number" value="0402F104Z160CT"/>
+      <property name="Description" value="16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C123453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0060c32-2fb5-48ab-9266-d0bd90debe9f</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C126469</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0805"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C126469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb0ee2aa-5354-463a-baeb-1cdb7f004e19</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">UMK107AB7105KA-T</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C126469</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0805"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="UMK107AB7105KA-T"/>
+      <property name="Description" value="50V 100nF 2X1 ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C126469"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>365b6625-34dd-4a80-9b27-e001310ec8c5</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0abb49a-d8de-40af-8005-15a8ed7c7aca</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45de44c7-dcbf-45a0-a4cb-fef77f9a09fe</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Walsin Tech Corp</field>
+        <field name="Manufacturer Part Number">0402F104Z160CT</field>
+        <field name="Package">C0402</field>
+        <field name="Specification">MLCC 10V or more</field>
+        <field name="Vendor Part Number">C123453</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Package" value="C0402"/>
+      <property name="Specification" value="MLCC 10V or more"/>
+      <property name="Manufacturer" value="Walsin Tech Corp"/>
+      <property name="Manufacturer Part Number" value="0402F104Z160CT"/>
+      <property name="Description" value="16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C123453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02502d88-d7d8-42a5-83ad-587a9171c54e</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Walsin Tech Corp</field>
+        <field name="Manufacturer Part Number">0402F104Z160CT</field>
+        <field name="Package">C0402</field>
+        <field name="Specification">MLCC 10V or more</field>
+        <field name="Vendor Part Number">C123453</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Package" value="C0402"/>
+      <property name="Specification" value="MLCC 10V or more"/>
+      <property name="Manufacturer" value="Walsin Tech Corp"/>
+      <property name="Manufacturer Part Number" value="0402F104Z160CT"/>
+      <property name="Description" value="16V 100nF Y5V -20%~+80% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C123453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ed2308-8539-4c08-83f4-12c5c66fdfb7</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33cccb65-01a7-4f09-a820-868f9176e132</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e33663b0-90c9-4c07-91ce-c6efcfdad973</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31c5f80f-0aa8-4c28-8078-edc43e5ca476</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="Description">10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS</field>
+        <field name="Manufacturer">AVX</field>
+        <field name="Manufacturer Part Number">TAJA106K016RNJ</field>
+        <field name="Package">C3216 (CASE A)</field>
+        <field name="Specification">16V 10uF Tantallum</field>
+        <field name="Vendor Part Number">C7171</field>
+      </fields>
+      <libsource lib="Device" part="CP1" description="Polarized capacitor, US symbol"/>
+      <property name="Package" value="C3216 (CASE A)"/>
+      <property name="Specification" value="16V 10uF Tantallum"/>
+      <property name="Manufacturer" value="AVX"/>
+      <property name="Manufacturer Part Number" value="TAJA106K016RNJ"/>
+      <property name="Vendor Part Number" value="C7171"/>
+      <property name="Description" value="10uF 16V -55℃~+125℃ 3Ω@100kHz ±10% CASE-A_3216 Tantalum Capacitors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67ee1c6d-7255-44ef-b0eb-0a9daca64767</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">0603F105M160NT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C1689</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="0603F105M160NT"/>
+      <property name="Description" value="16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C1689"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1fec357-1c9a-4c1d-b88b-27c57d602661</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Description">50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">Taiyo Yuden</field>
+        <field name="Manufacturer Part Number">EMK325BJ106KN-T</field>
+        <field name="Package">1210</field>
+        <field name="Vendor Part Number">C92769</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="1210"/>
+      <property name="Manufacturer" value="Taiyo Yuden"/>
+      <property name="Manufacturer Part Number" value="EMK325BJ106KN-T"/>
+      <property name="Description" value="50V 10uF X7R ±10% 1210 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C92769"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67d314b6-fe7c-4474-869c-9ed6a9421d2b</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">0603F105M160NT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C1689</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="0603F105M160NT"/>
+      <property name="Description" value="16V 1uF Y5V ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Vendor Part Number" value="C1689"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cd62e46-a855-4daa-ac5c-ea66a4828ebf</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>ZRE B5819W-SL</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Description">1mA@20V 40V Single 750mV@3A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS</field>
+        <field name="Manufacturer">ZRE</field>
+        <field name="Manufacturer Part Number">B5819W-SL</field>
+        <field name="Package">SOD-123</field>
+        <field name="Reference">D84</field>
+        <field name="Value">ZRE B5819W-SL</field>
+        <field name="Vendor Part Number">C779676</field>
+      </fields>
+      <libsource lib="Diode" part="1N5711" description="70V 33mA Schottky diode, DO-35"/>
+      <property name="Manufacturer" value="ZRE"/>
+      <property name="Manufacturer Part Number" value="B5819W-SL"/>
+      <property name="Package" value="SOD-123"/>
+      <property name="Description" value="1mA@20V 40V Single 750mV@3A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS"/>
+      <property name="Datasheet" value=""/>
+      <property name="Reference" value="D84"/>
+      <property name="Value" value="ZRE B5819W-SL"/>
+      <property name="Vendor Part Number" value="C779676"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b5f1b67-5d84-4649-9a5e-42f3f6288026</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>mSMD110-16V</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811091923_TECHFUSE-mSMD110-16V_C69691.pdf</datasheet>
+      <fields>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811091923_TECHFUSE-mSMD110-16V_C69691.pdf</field>
+        <field name="Description">16V 1.1A 100A 2.2A 1812 Resettable Fuses ROHS</field>
+        <field name="Manufacturer">TECHFUSE</field>
+        <field name="Manufacturer Part Number">mSMD110-16V</field>
+        <field name="Package">1812</field>
+        <field name="Reference">F?</field>
+        <field name="Value">mSMD110-16V</field>
+        <field name="Vendor Part Number">C69691</field>
+      </fields>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Package" value="1812"/>
+      <property name="Manufacturer" value="TECHFUSE"/>
+      <property name="Manufacturer Part Number" value="mSMD110-16V"/>
+      <property name="Vendor Part Number" value="C69691"/>
+      <property name="Description" value="16V 1.1A 100A 2.2A 1812 Resettable Fuses ROHS"/>
+      <property name="Datasheet" value="https://datasheet.lcsc.com/lcsc/1811091923_TECHFUSE-mSMD110-16V_C69691.pdf"/>
+      <property name="Reference" value="F?"/>
+      <property name="Value" value="mSMD110-16V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db2d2e5a-d7ce-4dc1-80a9-7f7469e410c1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-625C</value>
+      <footprint>Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_HOOYA-PJ-625C_C309291.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">HOOYA</field>
+        <field name="Manufacturer Part Number">PJ-625C</field>
+        <field name="Package">Plugin</field>
+        <field name="Vendor Part Number">C309291</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Manufacturer Part Number" value="PJ-625C"/>
+      <property name="Manufacturer" value="HOOYA"/>
+      <property name="Package" value="Plugin"/>
+      <property name="Vendor Part Number" value="C309291"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>696ac4cb-f067-48c1-8135-84f4a6a48258</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PJ-625C</value>
+      <footprint>Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_HOOYA-PJ-625C_C309291.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">HOOYA</field>
+        <field name="Manufacturer Part Number">PJ-625C</field>
+        <field name="Package">Plugin</field>
+        <field name="Vendor Part Number">C309291</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Manufacturer Part Number" value="PJ-625C"/>
+      <property name="Manufacturer" value="HOOYA"/>
+      <property name="Package" value="Plugin"/>
+      <property name="Vendor Part Number" value="C309291"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c36b5ea-13e9-4b48-9f80-c14d52816191</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer">DEALON</field>
+        <field name="Manufacturer Part Number">DZ127R-11-04-25</field>
+        <field name="Package">Straight,P=1.27mm</field>
+        <field name="Vendor Part Number">C2935944</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="DEALON"/>
+      <property name="Manufacturer Part Number" value="DZ127R-11-04-25"/>
+      <property name="Package" value="Straight,P=1.27mm"/>
+      <property name="Vendor Part Number" value="C2935944"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26ea9713-25c1-4c62-b430-8f20f7d5ce09</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>PJ-625C</value>
+      <footprint>Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_HOOYA-PJ-625C_C309291.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">HOOYA</field>
+        <field name="Manufacturer Part Number">PJ-625C</field>
+        <field name="Package">Plugin</field>
+        <field name="Vendor Part Number">C309291</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Manufacturer Part Number" value="PJ-625C"/>
+      <property name="Manufacturer" value="HOOYA"/>
+      <property name="Package" value="Plugin"/>
+      <property name="Vendor Part Number" value="C309291"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>630498fa-2158-4fe1-9645-5e902484719c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>PJ-625C</value>
+      <footprint>Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_HOOYA-PJ-625C_C309291.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">HOOYA</field>
+        <field name="Manufacturer Part Number">PJ-625C</field>
+        <field name="Package">Plugin</field>
+        <field name="Vendor Part Number">C309291</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Manufacturer Part Number" value="PJ-625C"/>
+      <property name="Manufacturer" value="HOOYA"/>
+      <property name="Package" value="Plugin"/>
+      <property name="Vendor Part Number" value="C309291"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2833f05f-4a2a-4ae0-9439-0c99d161aadb</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_02x04_Counter_Clockwise</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x04_P1.27mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer">XFCN</field>
+        <field name="Manufacturer Part Number">PZ127V-12-08-0720</field>
+        <field name="Package">Straight,P=1.27mm</field>
+        <field name="Vendor Part Number">C541878</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise" description="Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="XFCN"/>
+      <property name="Manufacturer Part Number" value="PZ127V-12-08-0720"/>
+      <property name="Package" value="Straight,P=1.27mm"/>
+      <property name="Vendor Part Number" value="C541878"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>038a6a55-9a2b-4456-a6ab-8a1b973a964d</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer">DEALON</field>
+        <field name="Manufacturer Part Number">DZ127R-11-04-25</field>
+        <field name="Package">Straight,P=1.27mm</field>
+        <field name="Vendor Part Number">C2935944</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="DEALON"/>
+      <property name="Manufacturer Part Number" value="DZ127R-11-04-25"/>
+      <property name="Package" value="Straight,P=1.27mm"/>
+      <property name="Vendor Part Number" value="C2935944"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fface10-a261-47d3-93a2-e25fc7dae417</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Horizontal</footprint>
+      <fields>
+        <field name="Manufacturer">DEALON</field>
+        <field name="Manufacturer Part Number">DZ127R-11-02-25</field>
+        <field name="Package">Straight,P=1.27mm</field>
+        <field name="Vendor Part Number">C2935942</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="DEALON"/>
+      <property name="Manufacturer Part Number" value="DZ127R-11-02-25"/>
+      <property name="Package" value="Straight,P=1.27mm"/>
+      <property name="Vendor Part Number" value="C2935942"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb6c1293-9ee4-418f-9b35-5fed2d70a21b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer">TyoHM</field>
+        <field name="Manufacturer Part Number">RMC08052K1%N</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C269745</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="TyoHM"/>
+      <property name="Manufacturer Part Number" value="RMC08052K1%N"/>
+      <property name="Package" value="0805"/>
+      <property name="Vendor Part Number" value="C269745"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fe9dc3d-43e3-4fb6-ae85-dc4651529dda</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer">TyoHM</field>
+        <field name="Manufacturer Part Number">RMC08052K1%N</field>
+        <field name="Package">0805</field>
+        <field name="Vendor Part Number">C269745</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="TyoHM"/>
+      <property name="Manufacturer Part Number" value="RMC08052K1%N"/>
+      <property name="Package" value="0805"/>
+      <property name="Vendor Part Number" value="C269745"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5092870-02c7-4f1e-855c-af3255e00fdd</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0603JR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-0710KL"/>
+      <property name="Vendor Part Number" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00234160-5c31-4110-bd79-481f322866ae</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">RS-03K5101FT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C156350</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="RS-03K5101FT"/>
+      <property name="Vendor Part Number" value="C156350"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61f9b90e-2d9b-4a68-8e14-539895778110</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>3.3k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">RS-03K332JT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C72816</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="RS-03K332JT"/>
+      <property name="Vendor Part Number" value="C72816"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ff0cf3a-cfec-494a-91ab-bd1fcfaeeea3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0603JR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-0710KL"/>
+      <property name="Vendor Part Number" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68e3303a-bc31-49e7-bea5-c0a238d7a3d4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Part Number">RS-03K5101FT</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C156350</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Part Number" value="RS-03K5101FT"/>
+      <property name="Vendor Part Number" value="C156350"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f987d29-01b7-480e-986a-a315eae804eb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0603JR-0710KL</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C99198</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0603JR-0710KL"/>
+      <property name="Vendor Part Number" value="C99198"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f1f4751-27f4-43e5-b880-01803d35d94c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C14675</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-07100KL"/>
+      <property name="Package" value="0603"/>
+      <property name="Vendor Part Number" value="C14675"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>401a3525-671e-428e-a9fe-3f4d033e8c93</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Manufacturer Part Number">RC0603FR-07100KL</field>
+        <field name="Package">0603</field>
+        <field name="Vendor Part Number">C14675</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-07100KL"/>
+      <property name="Package" value="0603"/>
+      <property name="Vendor Part Number" value="C14675"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e1168af-002f-432d-b6a3-bbb0c55e6f8f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PCM5100APWR</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/pcm5100a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1660867912449&amp;ref_url=https%253A%252F%252Fbr.mouser.com%252F</datasheet>
+      <fields>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer Part Number">PCM5100APWR</field>
+        <field name="Package">TSSOP-20</field>
+        <field name="Vendor Part Number">C131154</field>
+      </fields>
+      <libsource lib="acheron_Symbols" part="PCM5100APWR" description="32bit TSSOP-20 Digital To Analog Converters (DACs) ROHS"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Package" value="TSSOP-20"/>
+      <property name="Manufacturer Part Number" value="PCM5100APWR"/>
+      <property name="Vendor Part Number" value="C131154"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d95cdb-127f-4b59-8467-e3b18bae9ed6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>WM8782SEDS</value>
+      <footprint>Package_SO:SSOP-20_5.3x7.2mm_P0.65mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811081623_Cirrus-Logic-WM8782SEDS-RV_C323842.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Cirrus Logic</field>
+        <field name="Manufacturer Part Number">WM8782SEDS</field>
+        <field name="Package">SSOP-20</field>
+        <field name="Vendor Part Number">C323842</field>
+      </fields>
+      <libsource lib="acheron_Symbols" part="WM8782SEDS" description="24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28"/>
+      <property name="Manufacturer" value="Cirrus Logic"/>
+      <property name="Package" value="SSOP-20"/>
+      <property name="Manufacturer Part Number" value="WM8782SEDS"/>
+      <property name="Vendor Part Number" value="C323842"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11727efa-0158-44f6-ad2b-8a8f5df5d96d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SGM2028-3.3YN5G/TR</value>
+      <footprint>acheron_Components:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810010251_SGMICRO-SGM2007-3-3XN5-TR_C193687.pdf</datasheet>
+      <fields>
+        <field name="Description">300mA 73dB@(1kHz) 300mV@(300mA) Fixed 3.3V~3.3V Positive 1 5.5V SOT-23-5 Linear Voltage Regulators (LDO) ROHS</field>
+        <field name="Manufacturer">SGMICRO</field>
+        <field name="Manufacturer Part Number">SGM2028-3.3YN5G/TR</field>
+        <field name="Package">SOT-23-5</field>
+        <field name="Vendor Part Number">C81088</field>
+      </fields>
+      <libsource lib="acheron_Symbols" part="SGM2036" description="300mA, Low Power, Low Dropout Linear Regulators"/>
+      <property name="Manufacturer" value="SGMICRO"/>
+      <property name="Manufacturer Part Number" value="SGM2028-3.3YN5G/TR"/>
+      <property name="Package" value="SOT-23-5"/>
+      <property name="Description" value="300mA 73dB@(1kHz) 300mV@(300mA) Fixed 3.3V~3.3V Positive 1 5.5V SOT-23-5 Linear Voltage Regulators (LDO) ROHS"/>
+      <property name="Vendor Part Number" value="C81088"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Modulo DA simple.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>592f81fb-dca1-4cef-9f7f-088f9b37330d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x04_Counter_Clockwise">
+      <description>Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x04_Counter_Clockwise</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP1">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5711">
+      <description>70V 33mA Schottky diode, DO-35</description>
+      <docs>https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5711</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="acheron_Symbols" part="PCM5100APWR">
+      <description>32bit TSSOP-20 Digital To Analog Converters (DACs) ROHS</description>
+      <docs>https://www.ti.com/lit/ds/symlink/pcm5100a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1660867912449&amp;ref_url=https%253A%252F%252Fbr.mouser.com%252F</docs>
+      <footprints>
+        <fp>SSOP*5.3x10.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">PCM5100APWR</field>
+        <field name="Footprint">Package_SO:SSOP-20_5.3x7.2mm_P0.65mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/pcm5100a.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&amp;ts=1660867912449&amp;ref_url=https%253A%252F%252Fbr.mouser.com%252F</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Package">TSSOP-20</field>
+        <field name="Manufacturer Part Number">PCM5100APWR</field>
+        <field name="Vendor Part Number">LCSC C131154</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CPVDD" type="input"/>
+        <pin num="2" name="CAPP" type="output"/>
+        <pin num="3" name="CPGND" type="bidirectional"/>
+        <pin num="4" name="CAPM" type="bidirectional"/>
+        <pin num="5" name="VNEG" type="output"/>
+        <pin num="6" name="OUTL" type="output"/>
+        <pin num="7" name="OUTR" type="output"/>
+        <pin num="8" name="AVDD" type="power_in"/>
+        <pin num="9" name="AGND" type="bidirectional"/>
+        <pin num="10" name="DEMP" type="input"/>
+        <pin num="11" name="FLT" type="input"/>
+        <pin num="12" name="SCK" type="input"/>
+        <pin num="13" name="BCK" type="input"/>
+        <pin num="14" name="DIN" type="input"/>
+        <pin num="15" name="LRCK" type="input"/>
+        <pin num="16" name="FMT" type="input"/>
+        <pin num="17" name="XSMT" type="input"/>
+        <pin num="18" name="LDOO" type="bidirectional"/>
+        <pin num="19" name="DGND" type="bidirectional"/>
+        <pin num="28" name="DVDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="acheron_Symbols" part="SGM2036">
+      <description>300mA, Low Power, Low Dropout Linear Regulators</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1810010521_SGMICRO-SGM2036-3-3YN5G-TR_C92402.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SGM2036</field>
+        <field name="Footprint">acheron_Components:SOT-23-5</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1810010521_SGMICRO-SGM2036-3-3YN5G-TR_C92402.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="BP/FB" type="passive"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="acheron_Symbols" part="WM8782SEDS">
+      <description>24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1811081623_Cirrus-Logic-WM8782SEDS-RV_C323842.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x10.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">WM8782SEDS</field>
+        <field name="Footprint">Package_SO:SSOP-20_5.3x7.2mm_P0.65mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811081623_Cirrus-Logic-WM8782SEDS-RV_C323842.pdf</field>
+        <field name="Manufacturer">Cirrus Logic</field>
+        <field name="Package">SSOP-20</field>
+        <field name="Manufacturer Part Number">WM8782SEDS</field>
+        <field name="Vendor Part Number">LCSC C323842</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MCLK" type="input"/>
+        <pin num="2" name="DOUT" type="bidirectional"/>
+        <pin num="3" name="LRCLK" type="input"/>
+        <pin num="4" name="DGND" type="bidirectional"/>
+        <pin num="5" name="DVDD" type="bidirectional"/>
+        <pin num="6" name="BCLK" type="bidirectional"/>
+        <pin num="7" name="IWL" type="bidirectional"/>
+        <pin num="8" name="FSAMPEN" type="bidirectional"/>
+        <pin num="9" name="FORMAT" type="bidirectional"/>
+        <pin num="10" name="VMID" type="bidirectional"/>
+        <pin num="11" name="VREFGND" type="bidirectional"/>
+        <pin num="12" name="VREFP" type="bidirectional"/>
+        <pin num="13" name="AVDD" type="bidirectional"/>
+        <pin num="14" name="AGND" type="bidirectional"/>
+        <pin num="15" name="AINOPR" type="bidirectional"/>
+        <pin num="16" name="AINR" type="bidirectional"/>
+        <pin num="17" name="COM" type="bidirectional"/>
+        <pin num="18" name="AINOPL" type="input"/>
+        <pin num="19" name="AINL" type="bidirectional"/>
+        <pin num="28" name="M/S" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="acheron_Symbols">
+      <uri>H:\DSP Curso\Modulo DA simple/lib/acheron_Symbols/acheron_Symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CPVDD" pintype="input"/>
+      <node ref="U1" pin="28" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="AVDD" pintype="power_in"/>
+      <node ref="U2" pin="13" pinfunction="AVDD" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="DVDD" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="5V">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="3" name="ADC_BCLK">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="BCLK" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="ADC_DOUT">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="DOUT" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="ADC_FORMAT">
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="FORMAT" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="ADC_FSAMPEN">
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="FSAMPEN" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="ADC_IWL">
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="IWL" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="ADC_LRCLK">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="LRCLK" pintype="input"/>
+    </net>
+    <net code="9" name="ADC_MCLK">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="MCLK" pintype="input"/>
+    </net>
+    <net code="10" name="ADC_M{slash}S">
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="AINL_JACK">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="J1" pin="T" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="12" name="AINR_JACK">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="J2" pin="T" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="13" name="DAC_BCK">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="BCK" pintype="input"/>
+    </net>
+    <net code="14" name="DAC_DIN">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="DAC_LRCLK">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="LRCK" pintype="input"/>
+    </net>
+    <net code="16" name="DAC_SCK">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="DEMP" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="FLT" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="FMT" pintype="input"/>
+      <node ref="U1" pin="19" pinfunction="DGND" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="DGND" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="18" name="GNDA">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="S" pintype="passive"/>
+      <node ref="J5" pin="S" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="CPGND" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="AGND" pintype="bidirectional"/>
+      <node ref="U2" pin="11" pinfunction="VREFGND" pintype="bidirectional"/>
+      <node ref="U2" pin="14" pinfunction="AGND" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OUTL" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OUTR" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VNEG" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="CAPM" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="CAPP" pintype="output"/>
+    </net>
+    <net code="24" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="LDOO" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="VREFP" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="BP/FB" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="M/S" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="AINOPR" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="AINR" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="COM" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="AINOPL" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="AINL" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="OUTL_JACK">
+      <node ref="J5" pin="T" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="OUTR_JACK">
+      <node ref="J4" pin="T" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="VBUS">
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="VMID">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="VMID" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="XSMT" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "Display")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Symbols/Display.kicad_sym")(options "")(descr ""))
+  (lib (name "logocardeal")(type "KiCad")(uri "F:/Projeto Les Paul Cardeal/PCB eletric Guitar/logocardeal.kicad_sym")(options "")(descr ""))
+)

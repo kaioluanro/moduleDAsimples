@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "keebio-components")(type "KiCad")(uri "${KIPRJMOD}/lib/keebio-components")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheron_Logos")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Logos.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX_soldermask")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_MX_soldermask.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH_MetalRings")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "PCB eletric Guitar")(type "KiCad")(uri "F:/Projeto Les Paul Cardeal/PCB eletric Guitar")(options "")(descr ""))
+)
