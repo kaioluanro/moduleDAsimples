@@ -26,7 +26,7 @@ sequenceDiagram
 INPUT ->> ADC: Signal
 ADC->>PROCESS: 24-bits
 Note over PROCESS: Process signal digital.
-PROCESS->> DAC: 24-bits ou 32-bits
+PROCESS->> DAC: 24-bits or 32-bits
 DAC->> OUTPUT: Signal
 
 ```
